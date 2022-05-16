@@ -27,6 +27,12 @@
     align-items: center;
 }
 
+.cell img {
+    width: 64px;
+    height: 64px;
+    position: relative;
+}
+
 .black {
     background-color: rgb(45, 95, 12);
 }
